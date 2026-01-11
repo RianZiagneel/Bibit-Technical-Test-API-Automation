@@ -221,7 +221,7 @@ This project follows the **Page Object Model (POM)** adapted for API testing:
    
    All 8 test cases passed successfully:
    
-   ![Test Results](D:\Explore\Bibit Technical Test\API-Automation-Java\Bibit-Technical-Test-API-Automation\screenshots\test_result.png)
+   ![Test Results](screenshots/test_result.png)
    
    ### Test Summary
    - ✅ Tests Run: 8
